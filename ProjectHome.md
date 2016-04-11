@@ -1,0 +1,1 @@
+This open source project is meant to go along with a published Android development tutorial on buttons.
